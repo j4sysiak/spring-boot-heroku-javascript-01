@@ -3,4 +3,13 @@
 
 
     
-This is the javascriptpage page.
+
+
+<script>
+
+$(document).ready(function(){
+	
+	alert("Alert: This is the javascriptpage page.");
+});
+
+</script>
