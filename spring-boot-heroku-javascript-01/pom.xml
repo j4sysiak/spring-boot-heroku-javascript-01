@@ -3,7 +3,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	
-	<groupId>com.caveofprogramming</groupId>
+	<groupId>pl.jaceksysiak</groupId>
 	<artifactId>spring-boot-heroku-javascript-01</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
@@ -359,7 +359,7 @@
 <!-- 					<assembleDirectory>target</assembleDirectory> -->
 <!-- 					<programs> -->
 <!-- 						<program> -->
-<!-- 							<mainClass>com.caveofprogramming.App</mainClass> -->
+<!-- 							<mainClass>pl.jaceksysiak.App</mainClass> -->
 <!-- 							<name>webapp</name> -->
 <!-- 						</program> -->
 <!-- 					</programs> -->

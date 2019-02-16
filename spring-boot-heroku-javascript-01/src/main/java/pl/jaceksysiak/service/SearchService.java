@@ -6,7 +6,7 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.stereotype.Service;
 import org.springframework.core.convert.converter.Converter;
-//import com.caveofprogramming.model.SearchResult;
+//import pl.jaceksysiak.model.SearchResult;
 
 import pl.jaceksysiak.model.dto.SearchResult;
 import pl.jaceksysiak.model.entity.Profile;

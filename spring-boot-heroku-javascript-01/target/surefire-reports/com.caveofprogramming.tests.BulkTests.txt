@@ -1,9 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.caveofprogramming.tests.BulkTests
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 21.893 s <<< FAILURE! - in com.caveofprogramming.tests.BulkTests
-createTestUsers(com.caveofprogramming.tests.BulkTests)  Time elapsed: 0.015 s  <<< ERROR!
-java.io.FileNotFoundException: class path resource [com/caveofprogramming/tests/data/names.txt] cannot be resolved to URL because it does not exist
-	at com.caveofprogramming.tests.BulkTests.loadFile(BulkTests.java:63)
-	at com.caveofprogramming.tests.BulkTests.createTestUsers(BulkTests.java:126)
-

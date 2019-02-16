@@ -11,8 +11,8 @@ import org.springframework.web.servlet.ModelAndView;
 import pl.jaceksysiak.model.dto.SearchResult;
 import pl.jaceksysiak.service.SearchService;
 
-//import com.caveofprogramming.model.dto.SearchResult;
-//import com.caveofprogramming.service.SearchService;
+//import pl.jaceksysiak.model.dto.SearchResult;
+//import pl.jaceksysiak.service.SearchService;
 
 @Controller
 public class SearchController {

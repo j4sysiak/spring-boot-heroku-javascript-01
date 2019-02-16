@@ -21,8 +21,8 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 @Transactional
 public class BulkTests2 {
 	
-	private static final String namesFile = "/com/caveofprogramming/tests/data/names.txt";
-	private static final String interestsFile = "/com/caveofprogramming/tests/data/hobbies.txt";
+	private static final String namesFile = "/pl/jaceksysiak/tests/data/names.txt";
+	private static final String interestsFile = "/pl/jaceksysiak/tests/data/hobbies.txt";
 
 	private List<String> loadFile(String filename, int maxLength) throws IOException {
 		

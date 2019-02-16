@@ -37,8 +37,8 @@ import pl.jaceksysiak.service.SiteUserService;
 //@Transactional
 public class BulkTests {
 	
-	private static final String namesFile = "/com/caveofprogramming/tests/data/names.txt";
-	private static final String interestsFile = "/com/caveofprogramming/tests/data/hobbies.txt";
+	private static final String namesFile = "/pl/jaceksysiak/tests/data/names.txt";
+	private static final String interestsFile = "/pl/jaceksysiak/tests/data/hobbies.txt";
 	
 	private static final  int NUM_USER=4000;
 	

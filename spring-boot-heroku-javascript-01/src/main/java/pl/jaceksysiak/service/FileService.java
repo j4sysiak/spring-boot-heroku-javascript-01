@@ -25,7 +25,7 @@ import pl.jaceksysiak.exceptions.ImageTooSmallException;
 import pl.jaceksysiak.exceptions.InvalidFileException;
 import pl.jaceksysiak.model.dto.FileInfo;
 
-//import com.caveofprogramming.exceptions.ImageTooSmallException;
+//import pl.jaceksysiak.exceptions.ImageTooSmallException;
 
 @Service
 public class FileService {
