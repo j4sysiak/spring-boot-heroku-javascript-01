@@ -155,8 +155,6 @@ function editInterest(text, actionUrl) {
 }
 
 
-
-
 $(document).ready(function() {
 	
 // 	setUploadStatusText("Hello there.");

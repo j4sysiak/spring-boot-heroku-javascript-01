@@ -347,8 +347,7 @@
 		</plugins>
 	</build>
  
-
-
+ 
 <!-- 		<build> -->
 <!-- 		<finalName>upgrade-spring-boot-tutorial-23</finalName> -->
 <!-- 		<plugins> -->
@@ -377,8 +376,7 @@
 <!-- 		</plugins> -->
 <!-- 	</build> -->
 
-
-
+ 
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
